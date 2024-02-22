@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @abitarafan
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science and Analytics
-- 💞️ I’m looking to collaborate on Image Recognition testing
 - 📫 Reach me on LinkedIN @ali-bitarafan
 
 <!---
